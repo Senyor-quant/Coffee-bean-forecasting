@@ -1,0 +1,15 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+statsmodels>=0.14
+matplotlib>=3.7
+jupyter>=1.0
+python-dotenv>=1.0
+tqdm>=4.66
+
+# Deep learning
+tensorflow>=2.14
+
+# Docs
+mkdocs>=1.5
+mkdocs-material>=9.5

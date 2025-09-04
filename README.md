@@ -10,8 +10,6 @@ New recruits can try it immediately using Google Colab (no local setup needed).
 
 Click the Colab badge above.
 
-Upload the dataset (combined_data_arimax_05052025_1301.csv) when prompted.
-
 Press Runtime → Run all to train and evaluate the model.
 
 2. What happens
